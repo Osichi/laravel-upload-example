@@ -2,4 +2,4 @@
 
 **2024.02.29** upload tableel
 
-```composer create-project laravel/laravel example-app```
+`composer create-project laravel/laravel example-app`
